@@ -4,8 +4,7 @@ My name is Fabian and I'm some guy on the internet who runs a  [small IT blog](h
 
 - 🧑‍💻 I’m a Linux Engineer
 - 🌱 I’m currently learning Python & Kubernetes
-- 🔭 I’m currently working on my blog homelabtopia.com
-- ⚡ Hobbies: road cycling
+- ⚡ I love road cycling
 
 # 📊 My Stats
 
