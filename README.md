@@ -8,6 +8,6 @@ My name is Fabian and I'm some guy on the internet who runs a  [small IT blog](h
 
 # 📊 My Stats
 
-[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=wuestling&show_icons=true&count_private=true&theme=radical&hide=stars)]
+[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=wuestling&show_icons=true&count_private=true&theme=dark&hide=stars)]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wuestling&theme=dark&count_private=true&theme=radical)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wuestling&theme=dark&count_private=true&theme=dark)]
